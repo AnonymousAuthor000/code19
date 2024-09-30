@@ -1,0 +1,4 @@
+author info: FSEpaper@placeholder.org
+device info: a test device, id/sig: 12345678
+app info: a test app, id/sig: 97654321
+
